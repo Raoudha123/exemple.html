@@ -1,0 +1,49 @@
+h1 {
+    color: blue;
+}
+
+.videos{
+    color: red;
+}
+
+#v{
+    color: green;
+}
+
+#top{
+    background-color: blueviolet;
+  
+}
+
+#top:hover{
+background-color: red;
+
+}
+
+#videos{
+    background-color: aqua;
+}
+
+#form{
+    background-color: coral;
+}
+
+#first {
+    background-color: deeppink;
+}
+
+
+#v:hover{
+    color: black;
+}
+
+#title > h1 {
+    color:bisque
+}
+
+#type {
+    border: 2px solid black;
+    margin-left: 10%;
+    /* margin-top: 10%; */
+    padding-left: 30%;
+}
