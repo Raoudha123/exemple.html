@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+h1{
+    color: brown; font: bold ;
+}
+p{
+    color: black; font: bold; text-align: center; border: 5px; font-family: roboto;
+}
+
+nav{
+    background-color: darksalmon;
+}
+li{
+    display: inline;
+}
+ul{
+    text-align: center;
+}
+a :link {
+color: chartreuse;
+}
